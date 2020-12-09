@@ -26,13 +26,11 @@ namespace EvenOddNumber
                 else if (input % 2 == 0)
                 {
                     Console.WriteLine("Podana przez Ciebie liczba jest PARZYSTA!");
-                    break;
-                }                            
+                }
 
                 else
                 {
                     Console.WriteLine("Podana przez Ciebie liczba jest NIEPARZYSTA!");
-                    break;
                 }                
             }
         }
